@@ -1,2 +1,0 @@
-# CloneGoogle
-CloneGoogle
